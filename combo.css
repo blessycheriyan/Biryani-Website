@@ -1,0 +1,41 @@
+body{
+    margin:0;
+
+}
+
+
+
+.images {
+    background-image: url("comb2.jpg");
+    background-repeat: no-repeat;
+    background-image: fixed;
+    background-size: 100%;
+    width:100%;
+    height:100%;
+    
+
+
+}
+.offer{
+    color:darkcyan;
+margin:100px;
+    padding:100px;
+}
+
+
+.combo1{
+    color:darkcyan;
+    text-align: center;
+}
+h4{
+    color:darkcyan;
+}
+
+.food{
+    background-color: lightsteelblue;
+}
+
+
+.cards h4{
+    color:darkcyan;
+}

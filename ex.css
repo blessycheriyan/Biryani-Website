@@ -1,0 +1,76 @@
+body{
+    margin:0;
+   
+}
+
+
+li:hover {
+    background-color: green;
+  }
+  
+
+.image{
+  
+    background-repeat: no-repeat;
+    background-image: fixed;
+
+}
+
+.card{
+    color:darkcyan;
+
+
+}
+.head{
+    background-color:lightslategray;
+    text-align:center;
+    color:darkcyan;
+
+}
+
+.footer {
+  
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
+ }
+ .food{   
+}
+.contact{
+    text-align: center;
+    color:darkcyan;
+}
+
+.combo{
+    color:darkcyan;
+    line-height: 20px;
+}
+
+
+
+.images {
+  
+    background-repeat: no-repeat;
+    background-image: fixed;
+    background-size: 100%;
+    width:100%;
+    height:100%;
+    
+
+
+}
+.offer{
+    color:darkcyan;
+margin:200px;
+    padding:200px;
+}
+.coder{
+    position:fixed;
+    z-index:1;
+    width:100%;
+    
+}
+.nav-link{
+    color:green;
+}
