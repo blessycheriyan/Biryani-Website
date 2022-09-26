@@ -5,7 +5,7 @@ body, html {
     margin: 0;
   }
 .images {
-    background-image: url("book2.jpg");
+    background-image: url("image/book2.jpg");
     background-repeat: no-repeat;
     background-image: fixed;
     background-size: 100%;
@@ -22,5 +22,7 @@ body, html {
 }
 .contest{
     text-align:center;
+    color:blue;
+    box-shadow: 2px;
     
 }
